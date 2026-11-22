@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+.b8g-cas/
+*.log
+.DS_Store
+Thumbs.db
