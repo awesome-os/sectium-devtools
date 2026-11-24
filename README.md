@@ -44,3 +44,10 @@ node --test src/devtools-plane.test.mts src/kitty-ink-sink.test.mts src/sectium-
 ## License
 
 BSD-3-Clause. See [LICENSE](LICENSE).
+
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/sectium-devtools.git && cd sectium-devtools
+```
