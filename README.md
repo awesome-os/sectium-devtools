@@ -51,3 +51,13 @@ BSD-3-Clause. See [LICENSE](LICENSE).
 # Clone & enter repository (all platforms)
 git clone https://github.com/awesome-os/sectium-devtools.git && cd sectium-devtools
 ```
+
+## Quick Install & Run (Windows / Linux / macOS)
+
+```sh
+# Install / hydrate from v11 CAS via holo-pm
+holo-pm install repository://github.com/awesome-os/sectium-devtools@main
+
+# Or project & run directly via holo-project (0-byte hardlink)
+holo-project "project://cpp/sectium-devtools?from=repository://github.com/awesome-os/sectium-devtools@main"
+```
